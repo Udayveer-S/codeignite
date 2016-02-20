@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 
-	<title>Welcome to CodeIgniter uday vijay kumar</title>
+	<title>Welcome to CodeIgniter uday vijay kumar v</title>
 
 
 	<style type="text/css">
