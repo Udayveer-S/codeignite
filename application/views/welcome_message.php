@@ -22,11 +22,7 @@
 		color: #4F5155;
 	}
 
-	a {
-		color: #003399;
-		background-color: transparent;
-		
-	}
+	
 
 	h1 {
 		color: #444;
