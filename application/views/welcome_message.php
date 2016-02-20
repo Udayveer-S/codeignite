@@ -25,7 +25,7 @@
 	a {
 		color: #003399;
 		background-color: transparent;
-		font-weight: normal;
+		
 	}
 
 	h1 {
