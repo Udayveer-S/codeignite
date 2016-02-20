@@ -6,8 +6,9 @@
 	<title>Welcome to Vijay </title>
 
 	<title>Welcome to CodeIgniter </title>
-
-
+	<title>Hello cvcv</title>
+	vijay
+	asdfghj
 	<style type="text/css">
 
 	::selection{ background-color: #E13300; color: white; }
@@ -21,11 +22,7 @@
 		color: #4F5155;
 	}
 
-	a {
-		color: #003399;
-		background-color: transparent;
-		font-weight: normal;
-	}
+	
 
 	h1 {
 		color: #444;
