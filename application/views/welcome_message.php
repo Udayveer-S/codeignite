@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 
-	<title>Welcome Uday</title>
+	<title>Welcome to CodeIgniter </title>
 
 
 	<style type="text/css">
