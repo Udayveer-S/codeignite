@@ -6,7 +6,7 @@
 	<title>Welcome to Vijay </title>
 
 	<title>Welcome to CodeIgniter </title>
-
+	<title>Hello</title>
 
 	<style type="text/css">
 
