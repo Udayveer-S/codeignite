@@ -8,7 +8,7 @@
 	<title>Welcome to CodeIgniter </title>
 	<title>Hello cvcv</title>
 	vijay
-	asdfghj
+
 	<style type="text/css">
 
 	::selection{ background-color: #E13300; color: white; }
