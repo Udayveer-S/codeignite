@@ -120,3 +120,6 @@ ul.tsc_pagination li a.current
     background:-moz-linear-gradient(top, #B4F6FF 1px, #63D0FE 1px, #58B0E7);
     background:-webkit-gradient(linear, 0 0, 0 100%, color-stop(0.02, #B4F6FF), color-stop(0.02, #63D0FE), color-stop(1, #58B0E7));
 }
+ul.hello{
+	background:black;
+}
